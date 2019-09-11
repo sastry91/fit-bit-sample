@@ -1,6 +1,6 @@
 Steps to run in local 
 
-git clone repo fit-bit-sample
+git clone https://github.com/sastry91/fit-bit-sample.git
 
 cd to fit-bit-sample
 
